@@ -485,6 +485,11 @@ body
     {
         font-size: 15px;
     }
+    .banner-container
+    {
+        width: 97%;
+     }
+
 }
 /* -------------- Know Section Starts here -------------- */
 .know
