@@ -395,7 +395,7 @@ body
 .banner
 {
     padding: 10px 20px 15px 20px;
-    background: linear-gradient( to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/student.jpg');
+    background: linear-gradient( to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./images/student.jpg');
     height: 80vh;
     display: flex;
     flex-direction: column;
